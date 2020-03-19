@@ -61,7 +61,9 @@ In addition to shop-based trading, you can send currency to other players with t
 Block protection is offered by the Towny plugin which allows players to group together and form towns and settlements in which they can control who is allowed to build and where.
 
 ### Creating a town
-Anyone is allowed to start a town but you will have to save up some money to do so! To found a town run the command ``/town new <townname>`` and you will be mayor of your own little settlement. To check if where you are standing belongs to a town type ``/town here``
+Anyone is allowed to start a town but you will have to save up some money to do so! Right now, founding a town costs $400 (or the equivalent of 40 gold ingots traded at the server bank). As the server matures, this price may go up while the economy settles / inflation stabilizes.
+
+To found a town run the command ``/town new <townname>`` and you will be mayor of your own little settlement. To check if where you are standing belongs to a town type ``/town here``
 
 ### Growing your town
 Towns consists of chunks measuring 16x16 blocks and stretch from the bottom of the map to the top. When you start your town, it will have one chunk (where you're standing). You can buy additional chunks from the server with the command ``/town claim`` but these chunks must be adjacent to one you already own.
@@ -73,7 +75,7 @@ The number of chunks you are able to buy depends on the number of other players 
 As mayor you can sell (or give) plots to your residents by standing in a claimed chunk and using the command ``/ plot forsale <price>``. Residents can claim plots for sale by standing in them and using the command ``/plot claim``.
 
 ### Other town features
-You can easily get back to your town's homeblock (the first block claimed) with ``/town spawn``. There are tons of other towny features as well, for more detailed documentation check out: https://github.com/TownyAdvanced/Towny/wiki
+You can easily get back to your town's homeblock (the first block claimed) with ``/town spawn``. There are tons of other towny features as well, such as the ability to join up with other towns and form nations (allowing your residents to teleport between towns within the nation). For more detailed documentation check out: https://github.com/TownyAdvanced/Towny/wiki
 
 ## Character Development
 The server has the popular McMMO plugin installed. This allows you to level your character according to many different RPG mechanics and unlock special perks and abilities as you progress. This happens more or less in the background and will impact things like mining, farming, combat and so forth as you rank up.
