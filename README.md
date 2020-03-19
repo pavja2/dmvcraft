@@ -10,7 +10,6 @@ To issue commands or say things in chat, press the 't' key in game. Commands sta
 Everything on the server is free - when you see prices in game or in this guide those refer to in-game currency, not real money. I'm paying to host it on my own right now and there are no donor tiers or pay-to-win perks or anything like that, if hosting costs get too high I might solicit voluntary donations but for a small number of users but it should always be free for people who just want to play!
 
 That said, minecraft itself is not free. You can buy it from https://www.minecraft.net/ for around $25. This server will only work with the "Java Edition." That means you should not buy the mobile or console editions or the "Windows 10 Edition" (also sold as the "Bedrock" edition). The Java Edition will work on most modern versions of Mac, Linux, and Windows.
-
 ### Rules
 An up to date list of rules for the server can be found with the ``/rules`` command in game. The list boils down to no cheating and be nice to people. If people break the rules they can be warned or banned but I'd really rather not do any moderation if possible, so be excellent to each other!
 ### PVP
@@ -31,7 +30,31 @@ You will default in the global chat channel which is where everyone can hear you
 ``/pc`` - party chat, players in your MCMMO party (see below) can hear you
 
 If you wish to change your display name from whatever embarrassing username middle-school you picked when joining minecraft. You can use the `/nick <new name>` command to change it. Your real username will still appear on shops that you create though.
+### Teleporting
+The best way to get places is to walk, but if you're in a rush it is possible to teleport. There are a few commands to let you zip around the server faster.
 
+#### Homes
+First, you can set custom homes - these are points in the world that you can warp to at anytime. You can have up to three warps configured.
+
+To set a home location, stand where you want to set the home and use the command: ``/sethome <homename>``\
+To go to a home location, use the command: ``/home <homename>``
+To remove a home location, use the command: ``/delhome <homename>``
+
+Warping home costs $5 to incentivze transport infrastructure around towns.
+
+#### Server Warps
+You can always warp to the server spawn with ``/spawn`` and to the server marketplace with ``/market`` for free.
+
+#### Town Warps
+You can warp to your town spawn with ``/town spawn`` for $5 of in-game currency. If your town has joined a nation, you can warp to other towns in the nation with ``/town spawn [town_name]`` for $5 of in-game currency.
+
+#### Player Warps
+You can teleport to players for free to socialize or meet up anywhere on the server.
+
+To invite a player to teleport to your location: ``/tphere <playername>``
+To ask a player to let you teleport to their location: ``/tpa <playername>``
+
+#### 
 ## The Economy
 The economy operates off a gold standard. Ten units of currency can be traded at any time for one gold ingot and one gold ingot can be sold to the server at any time for ten units of currency.
 To sell gold to the server, hold a stack of ingots in your hand and use the following command:
