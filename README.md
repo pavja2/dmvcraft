@@ -52,6 +52,7 @@ You can warp to your town spawn with ``/town spawn`` for $5 of in-game currency.
 You can teleport to players for free to socialize or meet up anywhere on the server.
 
 To invite a player to teleport to your location: ``/tphere <playername>``
+
 To ask a player to let you teleport to their location: ``/tpa <playername>``
 
 #### 
