@@ -2,8 +2,15 @@
 ## The Basics
 ### Joining the Server
 The server operates based on a whitelist. Email me or ask someone already on the server if you'd like to be added. The server was built with the Rhodes community in mind but friends and family from beyond are 100% welcome, just let me know their usernames and I will add them.
-### Command Basics
-Is it your first time playing minecraft online? To issue commands or say things in chat, press the 't' key in game. Commands start with a '/' character and can have many arguments separated by spaces.
+### First Time Players
+Never played minecraft before? That's alright. The server is designed to be very close to vanilla minecraft with a few basic quality-of-life features and plugins to improve player interactions. It's a great environment for first time players!
+
+To issue commands or say things in chat, press the 't' key in game. Commands start with a '/' character and can have many arguments separated by spaces.
+
+Everything on the server is free - when you see prices in game or in this guide those refer to in-game currency, not real money. I'm paying to host it on my own right now and there are no donor tiers or pay-to-win perks or anything like that, if hosting costs get too high I might solicit voluntary donations but for a small number of users but it should always be free for people who just want to play!
+
+That said, minecraft itself is not free. You can buy it from https://www.minecraft.net/ for around $25. This server will only work with the "Java Edition." That means you should not buy the mobile or console editions or the "Windows 10 Edition" (also sold as the "Bedrock" edition). The Java Edition will work on most modern versions of Mac, Linux, and Windows.
+
 ### Rules
 An up to date list of rules for the server can be found with the ``/rules`` command in game. The list boils down to no cheating and be nice to people. If people break the rules they can be warned or banned but I'd really rather not do any moderation if possible, so be excellent to each other!
 ### PVP
