@@ -97,3 +97,6 @@ You can team up with other players to cooperate and earn experience using party 
 ``/party q`` - leaves the party you are in
 
 ``/party invite <player name>`` - invites a player to your party
+## Privacy Notes
+Anything you type on the server is logged along with your minecraft username and connection information. This information is visible to server administrators and potentially our VPS hosting provider. Be mindful that any personal information you share (even in /msg mesages to other players) is not likely to remain private. I'll refer to logs if I have to moderate any disputes.
+
