@@ -1,7 +1,7 @@
 # Server Guide
 ## The Basics
 ### Joining the Server
-The server operates based on a whitelist. Email me or ask someone already on the server if you'd like to be added. The server was built with the Rhodes community in mind but friends and family from beyond are 100% welcome, just let me know their usernames and I will add them. Only caveat is that you're vouching for the folks you invite, so if your 12-year old cousin who loves minecraft wants to play, great - they're absolutely welcome! But if they turn out to be hacking/cheating/bullying folks in chat, you may get banned along with them.
+The server operates based on a whitelist. Email me or ask someone already on the server if you'd like to be added. The server was built with the Rhodes community in mind but friends and family from beyond are 100% welcome, just let me know their usernames and I will add them. Only caveat is that you're vouching for the folks you invite, so if your 12 year-old cousin who loves minecraft wants to play, great - they're absolutely welcome! But if they turn out to be hacking/cheating/bullying folks in chat, you may get banned along with them.
 ### First Time Players
 Never played minecraft before? That's alright. The server is designed to be very close to vanilla minecraft with a few basic quality-of-life features and plugins to improve player interactions. It's a great environment for first time players!
 
