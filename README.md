@@ -27,7 +27,7 @@ You will default in the global chat channel which is where everyone can hear you
 
 ``/pc`` - party chat, players in your MCMMO party (see below) can hear you
 
-If you wish to change your display name from whatever embarrassing username middle-school you picked when joining minecraft. You can use the `/nick <new name>` command to change it. Your real username will still appear on shops that you create though.
+You may wish to change your display name from whatever embarrassing username middle-school you picked when joining minecraft. You can use the `/nick <new name>` command to change it. Your real username will still appear on shops that you create though.
 ### Teleporting
 The best way to get places is to walk, but if you're in a rush it is possible to teleport. There are a few commands to let you zip around the server faster.
 
