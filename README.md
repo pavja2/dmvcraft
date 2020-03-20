@@ -1,7 +1,7 @@
 # Server Guide
 ## The Basics
 ### Joining the Server
-The server operates based on a whitelist. Email me or ask someone already on the server if you'd like to be added. The server was built with the Rhodes community in mind but friends and family from beyond are 100% welcome, just let me know their usernames and I will add them.
+The server operates based on a whitelist. Email me or ask someone already on the server if you'd like to be added. The server was built with the Rhodes community in mind but friends and family from beyond are 100% welcome, just let me know their usernames and I will add them. Only caveat is that you're vouching for the folks you invite, so if your 12-year old cousin who loves minecraft wants to play, great - they're absolutely welcome! But if they turn out to be hacking/cheating/bullying folks in chat, you may get banned along with them.
 ### First Time Players
 Never played minecraft before? That's alright. The server is designed to be very close to vanilla minecraft with a few basic quality-of-life features and plugins to improve player interactions. It's a great environment for first time players!
 
@@ -16,8 +16,6 @@ An up to date list of rules for the server can be found with the ``/rules`` comm
 PVP combat is disabled by default but players can opt-in to pvp using the ``/pvp toggle`` command. You will have to wait at least 120 seconds to leave PVP mode so don't start a fight you're unwilling to finish!
 ### The Environment
 Please try to keep the server looking nice / natural. This means avoid flattening vast areas of the map for no reason or only partially cutting down trees (leaving them floating in the air). A little care in designing your builds goes a really long way.
-### Lag Management
-I'm paying for hosting out of pocket and it's a **very** cheap box as game servers go. This means that you should avoid building massive mob-spawners, automatic farms or redstone clocks. Automating is half the fun of minecraft so I don't want to ban it outright but if a certain build causes trouble, it may have to be deleted.
 ### Chatting
 You will default in the global chat channel which is where everyone can hear you. There are a few other chat options available. Simply type the commands below to switch chat modes:
 
@@ -54,8 +52,11 @@ You can teleport to players for free to socialize or meet up anywhere on the ser
 To invite a player to teleport to your location: ``/tphere <playername>``
 
 To ask a player to let you teleport to their location: ``/tpa <playername>``
+### Lag Management
+I'm paying for hosting out of pocket and it's a **very** cheap box as game servers go. This means that you should avoid building massive mob-spawners, automatic farms or redstone clocks. Automating is half the fun of minecraft so I don't want to ban it outright but if a certain build causes trouble, it may have to be deleted.
+### Bugs/Issues
+Contact James in game or via e-mail if you run into any weird bugs with the server and I'll try to fix them as fast as I can! Feel free to ask in the game chat for any help using various features or just playing minecraft if you've never played, someone will probably be able to help you.
 
-#### 
 ## The Economy
 The economy operates off a gold standard. Ten units of currency can be traded at any time for one gold ingot and one gold ingot can be sold to the server at any time for ten units of currency.
 To sell gold to the server, hold a stack of ingots in your hand and use the following command:
