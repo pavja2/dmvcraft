@@ -93,7 +93,7 @@ In addition to shop-based trading, you can send currency to other players with t
 Block protection is offered by the Towny plugin which allows players to group together and form towns and settlements in which they can control who is allowed to build and where.
 
 ### Creating a town
-Anyone is allowed to start a town but you will have to save up some money to do so! Right now, founding a town costs $400 (or the equivalent of 40 gold ingots traded at the server bank). As the server matures, this price may go up while the economy settles / inflation stabilizes.
+Anyone is allowed to start a town but you will have to save up some money to do so! Right now, founding a town costs $5000 (or the equivalent of 500 gold ingots traded at the server bank). As the server matures, this price may go up while the economy settles / inflation stabilizes.
 
 To found a town run the command ``/town new <townname>`` and you will be mayor of your own little settlement. To check if where you are standing belongs to a town type ``/town here``
 
