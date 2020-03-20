@@ -7,7 +7,7 @@ Never played minecraft before? That's alright. The server is designed to be very
 
 To issue commands or say things in chat, press the 't' key in game. Commands start with a '/' character and can have many arguments separated by spaces.
 
-Everything on the server is free - when you see prices in game or in this guide those refer to in-game currency, not real money. I'm paying to host it on my own right now and there are no donor tiers or pay-to-win perks or anything like that, if hosting costs get too high I might solicit voluntary donations but for a small number of users but it should always be free for people who just want to play!
+Everything on the server is free - when you see prices in game or in this guide those refer to in-game currency, not real money. I'm paying to host it on my own right now and there are no donor tiers or pay-to-win perks or anything like that. If hosting costs get too high I might solicit voluntary donations but it should always be free for people who just want to play!
 
 That said, minecraft itself is not free. You can buy it from https://www.minecraft.net/ for around $25. This server will only work with the "Java Edition." That means you should not buy the mobile or console editions or the "Windows 10 Edition" (also sold as the "Bedrock" edition). The Java Edition will work on most modern versions of Mac, Linux, and Windows.
 ### Rules
