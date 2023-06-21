@@ -121,8 +121,17 @@ You can team up with other players to cooperate and earn experience using party 
 
 ``/party invite <player name>`` - invites a player to your party
 
-## Advanced Enchantments
+### Advanced Enchantments
 The server sells customized enchantments beyond those which can be found in vanilla minecraft at the server shop, along with some special items which can be added to further enhance your enchantments (such as the ability to increase the number of enchantment slots available on an item). Use `/enchanter` to learn more about these features! These enchantments offer a powerful late game progression objective and place for you to spend your hard-earned copper! A full list of available enchantments can be found [here](https://ae.advancedplugins.net/enchantments/list-of-enchantments/default-enchants-200+).
+
+## Locked Chests
+Chest and other containers you place automatically lock. You can manage access to these chests using the `/bolt` commands.
+
+## Convencience Functions
+You can use /chestsort to automatically sort your chests and inventory.
+You can use /disposal to easily dispose of items from your inventory wherever you are standing.
+You can use /condense to automatically turn blockable items in your inventory (e.g. iron ingots) into blocks
+
 
 ## Privacy Notes
 Anything you type on the server is logged along with your minecraft username and connection information. This information is visible to server administrators and potentially our VPS hosting provider. Be mindful that any personal information you share (even in /msg mesages to other players) is not guaranteed to remain private. I'll refer to logs if I have to moderate any disputes.
