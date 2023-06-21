@@ -127,10 +127,12 @@ The server sells customized enchantments beyond those which can be found in vani
 ## Locked Chests
 Chest and other containers you place automatically lock. You can manage access to these chests using the `/bolt` commands.
 
-## Convencience Functions
-You can use /chestsort to automatically sort your chests and inventory.
-You can use /disposal to easily dispose of items from your inventory wherever you are standing.
-You can use /condense to automatically turn blockable items in your inventory (e.g. iron ingots) into blocks
+## Convenience Functions
+You can use `/chestsort` to automatically sort your chests and inventory.
+
+You can use `/disposal` to easily dispose of items from your inventory wherever you are standing.
+
+You can use `/condense` to automatically turn blockable items in your inventory (e.g. iron ingots) into blocks
 
 
 ## Privacy Notes
