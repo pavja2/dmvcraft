@@ -1,7 +1,10 @@
 # Server Guide
 ## The Basics
 ### Joining the Server
-The server operates based on a whitelist. Email me or ask someone already on the server if you'd like to be added. The server was built with the Rhodes community in mind but friends and family from beyond are 100% welcome, just let me know their usernames and I will add them. Only caveat is that you're vouching for the folks you invite, so if your 12 year-old cousin who loves minecraft wants to play, great - they're absolutely welcome! But if they turn out to be hacking/cheating/bullying folks in chat, you may get banned along with them.
+The server operates based on an allowlist. Email me or ask someone already on the server if you'd like to be added. 
+
+Friends and family are 100% welcome, just let me know their usernames and I will add them. Only caveat is that you're vouching for the folks you invite, so if your 12 year-old cousin who loves minecraft wants to play, great - they're absolutely welcome! But if they turn out to be hacking/cheating/bullying folks in chat, you may get banned along with them.
+
 ### First Time Players
 Never played minecraft before? That's alright. The server is designed to be very close to vanilla minecraft with a few basic quality-of-life features and plugins to improve player interactions. It's a great environment for first time players!
 
@@ -9,27 +12,35 @@ To issue commands or say things in chat, press the 't' key in game. Commands sta
 
 Everything on the server is free - when you see prices in game or in this guide those refer to in-game currency, not real money. I'm paying to host it on my own right now and there are no donor tiers or pay-to-win perks or anything like that. If hosting costs get too high I might solicit voluntary donations but it should always be free for people who just want to play!
 
-That said, minecraft itself is not free. You can buy it from https://www.minecraft.net/ for around $25. This server will only work with the "Java Edition." That means you should not buy the mobile or console editions or the "Windows 10 Edition" (also sold as the "Bedrock" edition). The Java Edition will work on most modern versions of Mac, Linux, and Windows.
+That said, minecraft itself is not free. You can buy it from https://www.minecraft.net/ for around $25. This server will only work with the "Java Edition." That means you should not buy the mobile or console editions or the "Windows 10 Edition" (also sold as the "Bedrock" edition). The Java Edition will work on most modern versions of Mac, Linux, and Windows.\
+
 ### Rules
-An up to date list of rules for the server can be found with the ``/rules`` command in game. The list boils down to no cheating and be nice to people. If people break the rules they can be warned or banned but I'd really rather not do any moderation if possible, so be excellent to each other!
+TLDR; No cheating and be nice to people. 
+
+If people break rules they can be warned or banned, but I'd really rather not do any moderation if possible, so be excellent to each other!
+
+1. **Respect others**.
+
+2. **No cheating or hacking:** Fair play only. No mods which give unfair advantage. If you wanna use `Litematica` or similar client side mods for planning or replicating your builds - that is fine though!
+
+3. **Keep the environment clean:** Try and cut down your trees all the way and don't leave gaping craters all over the map.
+
+4. **Don't exploit bugs:** If you see a server plugin bug (e.g. the ability to get infinite money or duplicate items) let me know so I can fix it and keep the server balanced and fun for everyone.
+
 ### PVP
-PVP combat is disabled by default but players can opt-in to pvp using the ``/pvp toggle`` command. You will have to wait at least 120 seconds to leave PVP mode so don't start a fight you're unwilling to finish!
+PVP combat is disabled by default but players can opt-in to pvp using the ``/pvptoggle`` command. You will have to wait at least 120 seconds to leave PVP mode so don't start a fight you're unwilling to finish!
+
 ### The Environment
 Please try to keep the server looking nice / natural. This means avoid flattening vast areas of the map for no reason or only partially cutting down trees (leaving them floating in the air). A little care in designing your builds goes a really long way.
+
 ### Chatting
 You will default in the global chat channel which is where everyone can hear you. There are a few other chat options available. Simply type the commands below to switch chat modes:
 
-``/g`` - default, global channel everyone can here
-
-``/tc`` - town chat, everyone in your town can hear you
-
-``/lc`` - local chat, players nearby (a few dozen blocks) can hear you
-
-``/pc`` - party chat, players in your MCMMO party (see below) can hear you
-
 You may wish to change your display name from whatever embarrassing username middle-school you picked when joining minecraft. You can use the `/nick <new name>` command to change it. Your real username will still appear on shops that you create though.
+
 ### Teleporting
-The best way to get places is to walk, but if you're in a rush it is possible to teleport. There are a few commands to let you zip around the server faster.
+The best way to get places is to walk, but if you're in a rush it is possible to teleport. 
+There are a few commands to let you zip around the server faster. Teleporting typically costs `$1` or the equivalent of one raw copper nugget.
 
 #### Homes
 First, you can set custom homes - these are points in the world that you can warp to at anytime. You can have up to three warps configured.
@@ -37,14 +48,8 @@ First, you can set custom homes - these are points in the world that you can war
 To set a home location, stand where you want to set the home and use the command: ``/sethome <homename>``\
 To go to a home location, use the command: ``/home <homename>``
 To remove a home location, use the command: ``/delhome <homename>``
-
-Warping home costs $5 to incentivze transport infrastructure around towns.
-
 #### Server Warps
-You can always warp to the server spawn with ``/spawn`` and to the server marketplace with ``/market`` for free.
-
-#### Town Warps
-You can warp to your town spawn with ``/town spawn`` for $5 of in-game currency. If your town has joined a nation, you can warp to other towns in the nation with ``/town spawn [town_name]`` for $5 of in-game currency.
+You can always warp to the server spawn with ``/spawn``.
 
 #### Player Warps
 You can teleport to players for free to socialize or meet up anywhere on the server.
@@ -54,20 +59,23 @@ To invite a player to teleport to your location: ``/tphere <playername>``
 To ask a player to let you teleport to their location: ``/tpa <playername>``
 ### Lag Management
 I'm paying for hosting out of pocket and it's a **very** cheap box as game servers go. This means that you should avoid building massive mob-spawners, automatic farms or redstone clocks. Automating is half the fun of minecraft so I don't want to ban it outright but if a certain build causes trouble, it may have to be deleted.
+
 ### Bugs/Issues
-Contact James in game or via e-mail if you run into any weird bugs with the server and I'll try to fix them as fast as I can! Feel free to ask in the game chat for any help using various features or just playing minecraft if you've never played, someone will probably be able to help you.
+Contact James in game, in the server discord, or via e-mail if you run into any weird bugs with the server and I'll try to fix them as fast as I can! Feel free to ask in the game chat for any help using various features or just playing minecraft if you've never played, someone will probably be able to help you.
 
 ## The Economy
-The economy operates off a gold standard. Ten units of currency can be traded at any time for one gold ingot and one gold ingot can be sold to the server at any time for ten units of currency.
-To sell gold to the server, hold a stack of ingots in your hand and use the following command:
+The economy operates off a copper standard. 1 unit of currency can be traded any time for a raw copper and a raw copper can be sold to the server at any time for 1 unit of currency.
+
+To sell copper to the server, hold a stack of ingots in your hand and use the following command:
 ```
 /sell hand
 ```
-To buy gold from the server, head to the bank inside the main spawn building and purchase gold ingots from one of the shops inside.
+To buy copper from the server, head to the shop on the second floor of the main spawn building and purchase copper ingots from one of the shops inside.
 
-Since the server will purchase an infinite quantity of gold at a fixed price, one way to make money is prospecting for gold. The ore generation settings have been adjusted so that gold occurs with greater frequency and in bigger clumps than in default minecraft so this is a viable option.
+Since the server will purchase an infinite quantity of copper at a fixed price, one way to make money is prospecting for copper.
+
 ### Trading Goods
-Mining for gold gets boring. You can sell goods to other players using the quickshop plugin. This allows you to operate shops which people can buy from even when you're offline / away. There is a nominal tax on all shop transactions (5%) to help keep the economy balanced / manage the money supply.
+Mining for copper gets boring. You can sell goods to other players using the quickshop plugin. This allows you to operate shops which people can buy from even when you're offline / away. There is a nominal tax on all shop transactions (5%) to help keep the economy balanced / manage the money supply.
 
 Creating a shop is really easy:
 1) Place a chest on the ground
@@ -84,30 +92,13 @@ There is a small marketplace outside of the main spawn building with stalls avai
 
 Feel free to build shops in your own towns/homes as well. You don't have to build in the market but its a convenient central spot for everyone.
 
-You can warp directly to the market with ``/warp market``.
-
 ### Trading Services
 In addition to shop-based trading, you can send currency to other players with the ``/pay <playername> <amount>`` command. This is a good way to pay for other services (e.g. construction help).
 
-## Towns and Protection
-Block protection is offered by the Towny plugin which allows players to group together and form towns and settlements in which they can control who is allowed to build and where.
+## Block Protection
+Block protection is offered using the protection stones plugin. You can buy protection stones at the server spawn shop and then place them to protect a 32x32 area centered on the stone!
 
-### Creating a town
-Anyone is allowed to start a town but you will have to save up some money to do so! Right now, founding a town costs $5000 (or the equivalent of 500 gold ingots traded at the server bank). As the server matures, this price may go up while the economy settles / inflation stabilizes.
-
-To found a town run the command ``/town new <townname>`` and you will be mayor of your own little settlement. To check if where you are standing belongs to a town type ``/town here``
-
-### Growing your town
-Towns consists of chunks measuring 16x16 blocks and stretch from the bottom of the map to the top. When you start your town, it will have one chunk (where you're standing). You can buy additional chunks from the server with the command ``/town claim`` but these chunks must be adjacent to one you already own.
-
-An easy way to visualize chunks is to press the F3+G keys at the same time. To disable this view, press them again.
-
-The number of chunks you are able to buy depends on the number of other players who live in your town. To invite new residents use ``/town add <playername>`` to send people invites to your town.
-
-As mayor you can sell (or give) plots to your residents by standing in a claimed chunk and using the command ``/ plot forsale <price>``. Residents can claim plots for sale by standing in them and using the command ``/plot claim``.
-
-### Other town features
-You can easily get back to your town's homeblock (the first block claimed) with ``/town spawn``. There are tons of other towny features as well, such as the ability to join up with other towns and form nations (allowing your residents to teleport between towns within the nation). For more detailed documentation check out: https://github.com/TownyAdvanced/Towny/wiki
+You can learn more about how to share access to your protection stones, manage protections, and merge regions with the ``/ps help`` command.
 
 ## Character Development
 The server has the popular McMMO plugin installed. This allows you to level your character according to many different RPG mechanics and unlock special perks and abilities as you progress. This happens more or less in the background and will impact things like mining, farming, combat and so forth as you rank up.
@@ -129,6 +120,7 @@ You can team up with other players to cooperate and earn experience using party 
 ``/party q`` - leaves the party you are in
 
 ``/party invite <player name>`` - invites a player to your party
+
 ## Privacy Notes
 Anything you type on the server is logged along with your minecraft username and connection information. This information is visible to server administrators and potentially our VPS hosting provider. Be mindful that any personal information you share (even in /msg mesages to other players) is not guaranteed to remain private. I'll refer to logs if I have to moderate any disputes.
 
