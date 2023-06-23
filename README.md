@@ -127,7 +127,7 @@ The server sells customized enchantments beyond those which can be found in vani
 ## Dungeons
 Use your skills and get stronger by visiting dungeons which exist in the world. At the time of writing, there is one dungon `The Manor` which you can find at `X:-3000 Z:100` or using `/warp the_manor`.
 
-Dungeons have special custom bosses with special combat abilities and the chests inside the dungeons contain treasure that re-generates from a random loot table every day. Party up with friends, get your potions and spells handy, and fight your way to glory.
+Dungeons have special custom bosses with special combat abilities and the chests inside the dungeons contain treasure that re-generates for each player from a random loot table every day. Party up with friends, get your potions and spells handy, and fight your way to glory.
 
 ### Dungeon: The Manor - Easy (X: -3000, Z: 100)
 This haunted manor is full of treasure. Only problem is, there are monsters everywhere too! Also, a gang of orcs - lead by a highly motivating percussionist - has moved into the top floor. Can you evict the orcs and collect the loot, or will you join the hordes of undead within?
