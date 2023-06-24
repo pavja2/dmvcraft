@@ -132,6 +132,9 @@ Dungeons have special custom bosses with special combat abilities and the chests
 ### Dungeon: The Manor - Easy (X: -3000, Z: 100)
 This haunted manor is full of treasure. Only problem is, there are monsters everywhere too! Also, a gang of orcs - lead by a highly motivating percussionist - has moved into the top floor. Can you evict the orcs and collect the loot, or will you join the hordes of undead within?
 
+## Elevators
+You can build elevators like the one at spawn by putting blue carpets on top of redstone blocks. All blue carpets directly above the first one you place will become part of the elevator stack as seperate levels!
+
 ## Locked Chests
 Chest and other containers you place automatically lock. You can manage access to these chests using the `/bolt` commands.
 
