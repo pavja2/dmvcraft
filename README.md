@@ -110,18 +110,35 @@ Certain special abilities can be unlocked and will be executed when you right cl
 
 <details>
   <summary><h4>Repair</h4></summary>
-  The Repair skill uses an Iron Block as an anvil. It lets you repair tools and armor **without using experience points**. Enchanted items are always at risk of being de-enchanted. To use:
+  
+The Repair skill uses an Iron Block as an anvil. It lets you repair tools and armor **without using experience points**. Enchanted items are always at risk of being de-enchanted.
   
   1. Place an Iron Block on the ground. 
   1. Hold the item you wish to repair.<br/>
      (Note: Only tools and armor can be repaired.)
   1. Make sure you have the appropriate materials to repair the item in your inventory (e.g., iron bars for iron tools, string for bows and fishing rods, leather for leather armor, etc.).<br/>
     (Note: all stone tools can only be repaired with Cobblestone and all wood tools with Oak Planks, even if the tools were made with other materials).
-  1. Right-click the Iron Block with the item to repair it. Each hit consumes one unit of material.
+  1. Right-click the Iron Block with the item to repair it. Each hit consumes one unit of material.<br/>
+  (Note: The higher your Repair skill level, the fewer hits and materials are required to repair an item.)
 
-  The passive ability *Arcane Forging* allows for the chance that an enchanted item will remain enchanted after being repair.
+The passive ability *Arcane Forging* allows for the chance that an enchanted item will remain enchanted after being repair.
+
 </details>
 
+<details>
+  <summary><h4>Salvage</h4></summary>
+
+The Salvage skill is a child skill of Repair and Fishing, calculated as the average of your Repair and Fishing skill levels. It lets you salvage tools and armor for their base materials. Items must be undamaged or only lightly damaged to be salvaged. It uses a Gold Block as its salvage anvil. To use:
+
+  1. Place a Gold Block on the ground
+  1. Hold the item you wish to salvage.<br/>
+     (Note: Only tools and armor can be salavged.)
+  1. Right-click the Gold block using the item to salvage it. You'll receive a set amount of materials used to make the item (e.g., 1-5 iron ingots for an Iron Helmet).<br/>
+     (Note: The higher your Salvage skill level, the more materials you'll recover when salvaging an item. For example, until you hit Salvage level 50, you'll only receive 1 material per salvaged item.)
+
+The passive ability *Arcane Salvage* creates the chance that when an enchanted item is salvaged, an enchanted book will drop with the item's enchantments. The chance increases as your Salvage skill level increases.
+
+</details>
 
 
 ### EXP Sharing
