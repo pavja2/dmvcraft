@@ -96,7 +96,7 @@ Feel free to build shops in your own towns/homes as well. You don't have to buil
 In addition to shop-based trading, you can send currency to other players with the ``/pay <playername> <amount>`` command. This is a good way to pay for other services (e.g. construction help).
 
 ## Block Protection
-Block protection is offered using the protection stones plugin. You can buy protection stones at the server spawn shop and then place them to protect a 32x32 area centered on the stone!
+Block protection is offered using the [Protection Stones](https://github.com/espidev/ProtectionStones/wiki) plugin. You can buy protection stones at the server spawn shop and then place them to protect a 32x32 area centered on the stone!
 
 You can learn more about how to share access to your protection stones, manage protections, and merge regions with the ``/ps help`` command.
 
