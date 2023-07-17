@@ -108,6 +108,22 @@ The skills are: Acrobatics, Archery, Axes, Swords, Unarmed, Excavation, Fishing,
 
 Certain special abilities can be unlocked and will be executed when you right click with particular tools or type commands in chat. Type ``/stats`` to see a basic summary of your character and ``/<skillname>`` to see information about a particular skill (e.g. ``/fishing``).
 
+<details>
+  <summary><h4>Repair</h4></summary>
+  The Repair skill uses an Iron Block as an anvil. It lets you repair tools and armor **without using experience points**. Enchanted items are always at risk of being de-enchanted. To use:
+  
+  1. Place an Iron Block on the ground. 
+  1. Hold the item you wish to repair.<br/>
+     (Note: Only tools and armor can be repaired.)
+  1. Make sure you have the appropriate materials to repair the item in your inventory (e.g., iron bars for iron tools, string for bows and fishing rods, leather for leather armor, etc.).<br/>
+    (Note: all stone tools can only be repaired with Cobblestone and all wood tools with Oak Planks, even if the tools were made with other materials).
+  1. Right-click the Iron Block with the item to repair it. Each hit consumes one unit of material.
+
+  The passive ability *Arcane Forging* allows for the chance that an enchanted item will remain enchanted after being repair.
+</details>
+
+
+
 ### EXP Sharing
 You can team up with other players to cooperate and earn experience using party commands. The basic party commands are:
 
